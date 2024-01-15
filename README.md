@@ -37,4 +37,13 @@ erro: false,
 msg: `MSG de sucesso ou dado correto.`,
 });
 
-Vc parou em 44:51 no video de nome: Autenticação com Nodejs e MongoDB com JWT.
+### Minha resposta padrão
+
+//Resposta quando enviar um dado corretamente - evita o loop infinito no inmsonia.
+//Comentar sempre que finalizar o http-request.
+// return res.status(200).json({
+// erro: false,
+// myDefault: 'Msg default de confirmação, dados corretos no end point: /auth/user ',
+// });
+
+# Projeto finalizado.
