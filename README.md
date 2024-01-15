@@ -47,4 +47,6 @@ msg: `MSG de sucesso ou dado correto.`,
 // });
 
 # Projeto finalizado.
-Link do video no youtube: 
+
+Link do video no youtube:
+https://www.youtube.com/watch?v=K5QaTfE5ylk&list=WL&index=91&ab_channel=MatheusBattisti-HoradeCodar
